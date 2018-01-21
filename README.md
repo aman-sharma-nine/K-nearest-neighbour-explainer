@@ -1,7 +1,7 @@
 # K-nearest-neighbour-explainer
-In this project, we will be predicting car prices using k-nearest neighbors algorithm.
-This project will help you practice the machine learning workflow and logic behind the algorithm.
-The dataset is obtained from : https://archive.ics.uci.edu/ml/datasets/automobile
+In this project, we will be predicting car prices using k-nearest neighbors algorithm.  
+This project will help you practice the machine learning workflow and logic behind the algorithm.  
+The dataset is obtained from : https://archive.ics.uci.edu/ml/datasets/automobile  
 
 
 Binder

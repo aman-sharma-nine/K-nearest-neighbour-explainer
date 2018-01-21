@@ -8,3 +8,5 @@ Binder
 Launch a live notebook server with these notebooks using binder:  
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aman-sharma-nine/K-nearest-neighbour-explainer/master)  
 
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/aman-sharma-nine/K-nearest-neighbour-explainer/master  
+

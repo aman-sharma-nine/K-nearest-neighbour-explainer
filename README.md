@@ -5,4 +5,6 @@ The dataset is obtained from : https://archive.ics.uci.edu/ml/datasets/automobil
 
 
 Binder
-Launch a live notebook server with these notebooks using binder: Binder
+Launch a live notebook server with these notebooks using binder:  
+https://mybinder.org/v2/gh/aman-sharma-nine/K-nearest-neighbour-explainer/master
+

@@ -8,4 +8,4 @@ Binder
 Launch a live notebook server with these notebooks using binder:  
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aman-sharma-nine/K-nearest-neighbour-explainer/master)  
 
-[![Jupyter](http://nbviewer.jupyter.org/github/aman-sharma-nine/K-nearest-neighbour-explainer/blob/master/Predicting_Prices_knn.ipynb)]
+[![Jupyter](http://nbviewer.jupyter.org/github/aman-sharma-nine/K-nearest-neighbour-explainer/blob/master/Predicting_Prices_knn.ipynb)
